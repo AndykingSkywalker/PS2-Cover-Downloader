@@ -4,7 +4,7 @@
 
 ## Description
 
-The PS2 Cover Downloader is a Python-based application that automates the process of downloading cover art for PlayStation 2 games. The application scans a specified directory for PS2 game files, retrieves the corresponding cover art from an online repository, and saves the images to a designated output directory.
+The PS2 Cover Downloader is a Python-based application that automates the process of downloading cover art for PlayStation 2 games. The application scans a specified directory for PS2 game files, retrieves the corresponding cover art from an online repository, and saves the images to a designated output directory. This tool is intended to be used with the PCSX2 application.
 
 ## Features
 
@@ -26,7 +26,7 @@ The PS2 Cover Downloader is a Python-based application that automates the proces
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/ps2-cover-downloader.git
+    git clone https://github.com/AndykingSkywalker/PS2-Cover-Downloader.git
     cd ps2-cover-downloader
     ```
 
@@ -42,7 +42,7 @@ The PS2 Cover Downloader is a Python-based application that automates the proces
 
 ### Using the Executable
 
-1. Download the executable file from the [releases page](https://github.com/yourusername/ps2-cover-downloader/releases).
+1. Download the executable file from the [releases page](https://github.com/AndykingSkywalker/PS2-Cover-Downloader/releases).
 
 2. Run the executable file.
 
